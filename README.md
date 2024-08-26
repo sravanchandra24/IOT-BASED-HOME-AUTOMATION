@@ -23,11 +23,12 @@ This project demonstrates a simulated home automation system using an Arduino bo
 2. **Temperature Control:** The LM35 sensor monitors temperature, with the system controlling a heater or cooler based on user settings via the Blynk app.
 3. **Water Management:** The Serial Tank sensor monitors water levels, controlling the inlet and outlet valves through commands sent from the Arduino, which are triggered by the Blynk app.
 
-#### Installation and Setup
-1. **Install Arduino IDE:** Ensure the Arduino IDE is installed on your computer for programming the Arduino board.
-2. **Picsimlab Setup:** Download and configure the Picsimlab simulator to simulate the system environment.
-3. **Blynk App:** Install the Blynk IoT app on your smartphone and set up the required widgets for controlling the home automation system.
-4. **Code Upload:** Write or upload the provided Arduino code to your board and begin simulation/testing.
+#### Components
+1. **Arduino IDE:** We used the Arduino IDE to write and upload code to the Arduino board, allowing us to control and automate the home automation tasks.
+2. **Picsimlab:** This tool was used to simulate the home automation system, enabling us to test the project virtually without the need for physical hardware.
+3. **Null-modem Emulator:** We utilized this emulator to create a serial interface between the Arduino board and other device emulators, facilitating communication during the simulation.
+4. **Blynk App:** The Blynk IoT app was installed on a smartphone, where we set up widgets to remotely control and monitor the home automation system in real time.
+5. **Code Upload:** The provided Arduino code was uploaded to the board, allowing us to run the simulation and test the various automated features of the system.
 
 #### Usage
 - Use the Blynk app to control and monitor the system in real time.
