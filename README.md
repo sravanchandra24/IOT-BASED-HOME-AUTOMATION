@@ -1,5 +1,8 @@
 # IOT-BASED-HOME-AUTOMATION
-### README: Home Automation Using Arduino, Picsimlab, and Blynk
+### README: 
+
+### TITLE : IOT-BASED-HOME-AUTOMATION
+### Home Automation Using Arduino, Picsimlab, and Blynk
 
 #### Overview
 This project demonstrates a simulated home automation system using an Arduino board, the Picsimlab simulator, and the Blynk IoT mobile application. The system enables remote control and monitoring of key household components, such as lighting, temperature control, and water tank management. This setup is designed to emulate real-world home automation, providing a practical and interactive experience.
